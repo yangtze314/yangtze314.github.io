@@ -1,3 +1,6 @@
+const BASEURL = "/ceectimer/";
+// const BASEURL = "";
+
 let gsat;
 let ast;
 let subjectNames = [];
@@ -25,9 +28,9 @@ async function setup() {
   frameRate(10);
   
   clock = new Clock();
-  clock.setBell(await loadSound("assets/bell.mp3"));
+  clock.setBell(await loadSound(BASEURL + "assets/bell.mp3"));
   
-  clockFace = await loadImage("assets/clockface.jpg")
+  clockFace = await loadImage(BASEURL + "assets/clockface.jpg")
   imageMode(CENTER);
   clockFace.resize(0, height);
   

@@ -1,6 +1,6 @@
 async function loadTables() {
-  gsat = await loadTable("assets/gsat.csv", ",", "header");
-  ast = await loadTable("assets/ast.csv", ",", "header");
+  gsat = await loadTable(BASEURL + "assets/gsat.csv", ",", "header");
+  ast = await loadTable(BASEURL + "assets/ast.csv", ",", "header");
   
   // parse gsat data
   html = `<option disabled>--請選擇考科--</option>`;
