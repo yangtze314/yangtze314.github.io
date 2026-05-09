@@ -25,9 +25,9 @@ async function setup() {
   frameRate(10);
   
   clock = new Clock();
-  clock.setBell(await loadSound("/assets/bell.mp3"));
+  clock.setBell(await loadSound("assets/bell.mp3"));
   
-  clockFace = await loadImage("/assets/clockface.jpg")
+  clockFace = await loadImage("assets/clockface.jpg")
   imageMode(CENTER);
   clockFace.resize(0, height);
   
