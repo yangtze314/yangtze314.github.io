@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>問問 ChatGPT</title>
 </head>
 
 <body>
@@ -18,7 +19,7 @@
 
         submit.addEventListener("click", function () {
             if (query.value) {
-                window.location.replace("https://chatgpt.com/?q=" + encodeURIComponent(`
+                window.location.href = "https://chatgpt.com/?q=" + encodeURIComponent(`
 這裡是陽明交大新生問答的內容：
 
 重要連結
@@ -110,7 +111,7 @@ B 時段（T78F34）：
 交大校區：https://drive.google.com/file/d/1L9GFMvAlSFYpkghXei_OZhyCAWNHFQSn/view（第二頁）
 
 整合完後，請幫我回答以下問題：
-` + query.value + `如果網沒有相關內容，請回答「新生常見問答沒有相關資訊喔！你可能得去問問學長姐～」。`));
+` + query.value + `如果網沒有相關內容，請回答「新生常見問答沒有相關資訊喔！你可能得去問問學長姐～」。`);
             }
         });
     </script>
