@@ -15,6 +15,8 @@
 
 ### 選課修課連結
 
+- 修課規定（含系上必修課、核心課程、語言與溝通等課程）：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511
+
 - 選課系統：單一入口登入 > 校務系統連結 > 搜尋「選課」，找到「一般選課系統」
     
 - 課程時間表（NYCU Timetable）：[https://timetable.nycu.edu.tw/](https://timetable.nycu.edu.tw/)，提供選課系統之外的另一查課方式
