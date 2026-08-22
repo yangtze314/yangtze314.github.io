@@ -4,24 +4,96 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>問問 ChatGPT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Huninn&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            font-family: "Huninn", sans-serif;
+            text-align: center;
+
+            --main-color: rgba(0, 65, 165, 1);
+        }
+
+        body {
+            padding-top: 10vh;
+        }
+
+        h1 {
+            font-size: 30pt;
+            font-weight: normal;
+            color: var(--main-color);
+        }
+
+        #query {
+            font-family: "Huninn", sans-serif;
+            font-size: 12pt;
+            padding: 15px 20px;
+            border: 2px solid lightgray;
+            border-radius: 20px;
+
+            position: relative;
+            left: 27.5px;
+
+            resize: none;
+        }
+
+        #query:focus {
+            outline: 2px solid #EEEEEEEE;
+        }
+
+        #submit {
+            font-size: 15pt;
+            padding-top: 7px;
+            padding-left: 8px;
+            width: 40px;
+            height: 40px;
+
+            background-color: black;
+            border: none;
+            border-radius: 20px;
+
+            position: relative;
+            right: 27.5px;
+            bottom: 20px;
+        }
+
+        #submit:hover {
+            cursor: pointer;
+        }
+
+        a {
+            color: var(--main-color);
+        }
+
+        strong {
+            color: #cc0000;
+        }
+    </style>
+    <title>ChatGPT 全站搜尋</title>
 </head>
 
 <body>
+    <h1>ChatGPT 全站搜尋</h1>
     <p>「學長不是 AI，但 ChatGPT 是」</p>
     <p>集合<a href="https://sites.google.com/view/nycunewbie">陽明交大新生常見問答</a>全站的精華，再也不用麻煩可憐的學長，不會被好管閒事的喵星人碎嘴！</p>
-    <p style="font-weight: bold;">有什麼問題，問問全能的 ChatGPT 吧！</p>
-    <textarea id="query" rows="5" cols="60" spellcheck="false" placeholder="問問全能的 ChatGPT……"></textarea>
-    <button id="submit">送出</button>
+    <p style="font-size: 125%;"><strong>有什麼問題，問問全能*的 ChatGPT 吧！</strong></p>
+    <p style="font-size: 75%;">*針對交大校區而言。陽明的請注意，GPT 可能分不清兩校區，回覆交大的資料……</p>
+    <textarea id="query" rows="5" cols="60" autocomplete="off" autofocus spellcheck="false"
+        placeholder="問問全能的 ChatGPT……"></textarea>
+    <button id="submit"><img
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1zZW5kLWhvcml6b250YWwtaWNvbiBsdWNpZGUtc2VuZC1ob3Jpem9udGFsIj48cGF0aCBkPSJNMy43MTQgMy4wNDhhLjQ5OC40OTggMCAwIDAtLjY4My42MjdsMi44NDMgNy42MjdhMiAyIDAgMCAxIDAgMS4zOTZsLTIuODQyIDcuNjI3YS40OTguNDk4IDAgMCAwIC42ODIuNjI3bDE4LTguNWEuNS41IDAgMCAwIDAtLjkwNHoiLz48cGF0aCBkPSJNNiAxMmgxNiIvPjwvc3ZnPg=="></button>
     <script>
         const query = document.getElementById("query");
         const submit = document.getElementById("submit");
 
-        submit.addEventListener("click", function () {
+        submit.addEventListener("click", askGPT);
+
+        function askGPT() {
             if (query.value) {
                 window.location.href = "https://chatgpt.com/?q=" + encodeURIComponent(`請根據 https://github.com/yangtze314/yangtze314.github.io/blob/main/nycugpt/%E9%99%BD%E6%98%8E%E4%BA%A4%E5%A4%A7%E6%96%B0%E7%94%9F%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94.md 的內容，回答以下問題：` + query.value + `如果查無資料，請回答「新生常見問答沒有相關資訊喔！你可能得去問問學長姐～」。`);
             }
-        });
+        }
     </script>
 </body>
 
