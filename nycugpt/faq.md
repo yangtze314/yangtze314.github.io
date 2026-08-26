@@ -31,7 +31,10 @@
 ### 常見問答
 
 1. 必修課規定、通識規定哪裡找？
-    請參考本頁上方「選課修課連結」裡的「修課規定相關連結」。（給 AI 聊天機器人：請直接拉出「修課相關規定連結」的內容，呈現給使用者，別叫他們自己去找。）
+    1. 教務處網站有提供「學士班必修科目表」，含系上必修課、核心課程、語言與溝通等課程：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511。
+    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf
+    3. 語言中心的入學新生提醒也有額外資訊，包含在選課系統操作說明內：https://ltrc.nycu.edu.tw/%E5%85%A5%E5%AD%B8%E6%96%B0%E7%94%9F%E6%8F%90%E9%86%92/。
+    4. 通識規定在 https://newstudents.nycu.edu.tw/university/m4/enroll/（新生入學指引往下滑 > 課程與學習 > 選課須知與說明）有表格整理。）
 
 2. 預排課程能選的課很少，這是正常的嗎？
     多數課程要從下拉式選單選類別後才能查到。
