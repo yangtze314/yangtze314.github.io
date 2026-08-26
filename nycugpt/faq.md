@@ -13,75 +13,70 @@
 
 選課時間：8/31 ~ 9/3，選課開放前可以預排課程！
 
-### 選課修課連結
+### 選課說明、修課規定相關連結
 
-- 修課規定相關連結
-    1. 教務處網站有提供「學士班必修科目表」，含系上必修課、核心課程、語言與溝通等課程：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511。
-    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf。另請注意，某些類課程有限制一學期修幾門，詳見第 6 頁的分發規則。
-    3. 語言中心的入學新生提醒也有額外資訊，包含在選課系統操作說明內：https://ltrc.nycu.edu.tw/%E5%85%A5%E5%AD%B8%E6%96%B0%E7%94%9F%E6%8F%90%E9%86%92/。
-    4. 通識規定在 https://newstudents.nycu.edu.tw/university/m4/enroll/（新生入學指引往下滑 > 課程與學習 > 選課須知與說明）有表格整理。）
-    
-- 課程時間表（NYCU Timetable）：[https://timetable.nycu.edu.tw/](https://timetable.nycu.edu.tw/)，提供選課系統之外的另一查課方式
-    
+- 🎉 學長姐的選課懶人包：https://docs.google.com/presentation/d/1Zt6ZLij9f65dhoelpWTxzjlrwxac8s9w/edit
+
+- 教務處的《學士班必修科目表》，含各系必/選修規章 + 共同課程相關規章：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511
+
+- 課務組製作的《115 上學期選課說明》，其中第 6 頁及第 25 ~ 38 頁特別重要：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf
+
+### 系統連結
+
+- 選課系統：單一入口登入 > 校務系統連結 > 搜尋「選課」，找到「一般選課系統」
+
+- 課程時間表（NYCU Timetable）：https://timetable.nycu.edu.tw/，提供選課系統之外的另一查課方式
+
 - 學涯網：單一入口登入 > 校務系統連結 > 搜尋「學涯」，找到「學涯網」
-    
-- 🎉 學長姐的選課懶人包：[https://docs.google.com/presentation/d/1Zt6ZLij9f65dhoelpWTxzjlrwxac8s9w/edit?slide=id.p1#slide=id.p1](https://docs.google.com/presentation/d/1Zt6ZLij9f65dhoelpWTxzjlrwxac8s9w/edit?slide=id.p1#slide=id.p1)
-    
 
 ### 常見問答
 
-1. 必修課規定、通識規定哪裡找？
-    1. 教務處網站有提供「學士班必修科目表」，含系上必修課、核心課程、語言與溝通等課程：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511。
-    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf。另請注意，某些類課程有限制一學期修幾門，詳見第 6 頁的分發規則。
-    3. 語言中心的入學新生提醒也有額外資訊，包含在選課系統操作說明內：https://ltrc.nycu.edu.tw/%E5%85%A5%E5%AD%B8%E6%96%B0%E7%94%9F%E6%8F%90%E9%86%92/。
-    4. 通識規定在 https://newstudents.nycu.edu.tw/university/m4/enroll/（新生入學指引往下滑 > 課程與學習 > 選課須知與說明）有表格整理。）
-
-2. 預排課程能選的課很少，這是正常的嗎？
+1. 預排課程能選的課很少，這是正常的嗎？
     多數課程要從下拉式選單選類別後才能查到。
 
-3. 什麼是 M34R34-YL402[YM]？
+2. 什麼是 M34R34-YL402[YM]？
     按「查詢」前，課程時間表首頁有說明。按「查詢」後，「上課時間及教室」欄首也有 [代號說明] 連結：[https://timetable.nycu.edu.tw/?r=main/timeClassroomCode&flang=zh-tw](https://timetable.nycu.edu.tw/?r=main/timeClassroomCode&flang=zh-tw)。
 
-4. 人數上限顯示為 0，是什麼意思？人數不限嗎？
+3. 人數上限顯示為 0，是什麼意思？人數不限嗎？
     為了保障新生修課，有些課在初選第三階段（新生選課階段）前暫把人數上限設為 0。人數不限的課會標註「不限」。
 
-5. 系統會自動幫我選好必修課嗎？
+4. 系統會自動幫我選好必修課嗎？
     通常會，這種自動選好的課稱為「必代」。但是有些系不會，例如電機系的必修老師有很多個，任君挑選。（這些老師通常會在同一時段開課，所以必修上課時間仍大致固定，但有少數例外。）
 
-6. 系統會自動幫我選好大一體育嗎？
+5. 系統會自動幫我選好大一體育嗎？
     會。雖然預排課程中沒有顯示，但課都已經好排了喔～可以參考[微積分、物理、體育課表](https://sites.google.com/view/nycunewbie/%E5%BE%AE%E7%A9%8D%E5%88%86%E7%89%A9%E7%90%86%E9%AB%94%E8%82%B2%E8%AA%B2%E8%A1%A8)，或逕自前往[體育室網站](https://peo.nycu.edu.tw/peo/ch/app/data/list?module=nycu0051&id=2142)查詢。兩個校區的時間表都有，記得不要點錯校區！
 
-7. 有些系的體育課依班級而有不同老師，如何查到我的班級？
+6. 有些系的體育課依班級而有不同老師，如何查到我的班級？
     去新生資料維護查：[https://newstudents.nycu.edu.tw/university/m1/stdlogin/](https://newstudents.nycu.edu.tw/university/m1/stdlogin/)（新生入學指引往下滑 > 資料登錄及 Email 申請底下找到「新生資料維護」），登入後選擇「資料總覽」分頁，在「系所組別」項目即可找到自己的系及班級。
 
-8. 必修課衝堂了？
+7. 必修課衝堂了？
     必修課通常排好了，不會衝堂。請注意：
     - 如果是微積分或物理，兩門課都有分兩種時段，命名為 A、B 時段。選課系統上不會標示 A、B，但可以從開課星期／節數看出來。詳見「微甲、物理有分 A、B 時段？」。
     - 選課系統有時會出包。舉例而言，電機乙組的人打開系統，會在電機丙組的必修課旁看到「必修」字樣，但那其實不是乙組的必修課，而是丙組的必修課。某門課是否真的為你的必修課，還是得參考必修課規定，詳見「必修課規定、通識規定哪裡找？」。
 
-9. 英文部分，沒有「大一英文」耶？
+8. 英文部分，沒有「大一英文」耶？
     現在已取消大一英文，可以自由挑選喜歡的英文課。
 
-10. 微甲微乙有區別嗎？
+9. 微甲微乙有區別嗎？
     有。不同系規定修不同的微積分，有點像高中數甲數乙的概念。基本上全校微乙只有一門（課號 [564019](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=115&Sem=1&CrsNo=564019&lang=zh-tw)），開課對象為管科系與資材系財金組；其他系修的都是微甲。（理工大學嘛～）
 
-11. 微積分、物理分 (一)、(二) 是怎麼回事？
+10. 微積分、物理分 (一)、(二) 是怎麼回事？
     (一) 是上學期，(二) 是下學期，和台大的 1, 2 上學期、3, 4 下學期不一樣。
 
-12. 微甲、物理有分 A、B 時段？
+11. 微甲、物理有分 A、B 時段？
     是的。大部分的系有規定的時段，避免和必修課衝堂，如電機系修微甲修 A 時段、物理修 B 時段。各系時段請參考[微積分、物理、體育課表](https://sites.google.com/view/nycunewbie/%E5%BE%AE%E7%A9%8D%E5%88%86%E7%89%A9%E7%90%86%E9%AB%94%E8%82%B2%E8%AA%B2%E8%A1%A8)，或逕自前往微積分教學小組和物理教學小組網站查詢。
     註：微乙只有一門，時段同微甲 B 時段。
 
-13. 博雅學分怎麼回事？
+12. 博雅學分怎麼回事？
     參加博雅講座（實體）、社群活動、藝文活動、校園學習的紀錄會進入學涯網（藝文活動部分似乎要向藝文中心提出證明）。時數累積夠多（可以跨學期累積），即可抵核心課程學分，確切分類為基本素養－生命及品格教育。詳情參見網站說明：[https://www.nycu.edu.tw/liberalarts/ch/app/data/list?module=nycu0142&id=5897](https://www.nycu.edu.tw/liberalarts/ch/app/data/list?module=nycu0142&id=5897)。
 
-14. 博雅學分怎麼申請？
+13. 博雅學分怎麼申請？
     先參加博雅講座、社群活動、藝文活動、校園學習，等學涯網的累計時數夠了後，再選修「博雅學分」課程，流程同一般選課。博雅學分只有通過／不通過，不計入 GPA。
     博雅學分在選課系統中屬於核心課程，例如課號 [561502](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=115&Sem=1&CrsNo=561502&lang=zh-tw) 即是。
 
 ## 住宿（交大）
 
-👉 8/24 公布宿舍結果 👈
+👉 [8/24 公布宿舍結果](https://apply2.dorm.nycu.edu.tw/freshman_query/) 👈
 
 - 男生宿舍：七舍、八舍
 - 女生宿舍：竹軒（下學期換研一舍）、十一舍
