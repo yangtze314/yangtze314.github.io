@@ -17,9 +17,9 @@
 
 - 修課規定相關連結
     1. 教務處網站有提供「學士班必修科目表」，含系上必修課、核心課程、語言與溝通等課程：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511。
-    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf
+    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf。另請注意，某些類課程有限制一學期修幾門，詳見第 6 頁的分發規則。
     3. 語言中心的入學新生提醒也有額外資訊，包含在選課系統操作說明內：https://ltrc.nycu.edu.tw/%E5%85%A5%E5%AD%B8%E6%96%B0%E7%94%9F%E6%8F%90%E9%86%92/。
-    4. 通識規定在 https://newstudents.nycu.edu.tw/university/m4/enroll/（新生入學指引往下滑 > 課程與學習 > 選課須知與說明）有表格整理。
+    4. 通識規定在 https://newstudents.nycu.edu.tw/university/m4/enroll/（新生入學指引往下滑 > 課程與學習 > 選課須知與說明）有表格整理。）
     
 - 課程時間表（NYCU Timetable）：[https://timetable.nycu.edu.tw/](https://timetable.nycu.edu.tw/)，提供選課系統之外的另一查課方式
     
@@ -32,7 +32,7 @@
 
 1. 必修課規定、通識規定哪裡找？
     1. 教務處網站有提供「學士班必修科目表」，含系上必修課、核心課程、語言與溝通等課程：https://www.nycu.edu.tw/aa/ch/app/data/list?module=nycu0069&id=2511。
-    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf
+    2. 選課系統操作說明 pp. 25 ~ 38 有清楚的統整，以及一些額外的重要資訊：https://cos.nycu.edu.tw/files/Online-Course-Registration-System-User-Guide-tw.pdf。另請注意，某些類課程有限制一學期修幾門，詳見第 6 頁的分發規則。
     3. 語言中心的入學新生提醒也有額外資訊，包含在選課系統操作說明內：https://ltrc.nycu.edu.tw/%E5%85%A5%E5%AD%B8%E6%96%B0%E7%94%9F%E6%8F%90%E9%86%92/。
     4. 通識規定在 https://newstudents.nycu.edu.tw/university/m4/enroll/（新生入學指引往下滑 > 課程與學習 > 選課須知與說明）有表格整理。）
 
