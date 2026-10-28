@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap" rel="stylesheet">
+
+
+    <title>QR Code 產生器</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="qrcode.min.js"></script>
+</head>
+
+<body>
+    <h1>QR Code 產生器</h1>
+    <div>
+        <input type="text" autofocus spellcheck="false" placeholder="輸入文字或網址……" size="50">
+    </div>
+    <div>
+        <button id="copy" disabled>複製到剪貼簿</button>
+        <button id="download" disabled>下載</button>
+    </div>
+    <div id="qrcode"></div>
+    <script src="main.js"></script>
+</body>
+
+</html>
