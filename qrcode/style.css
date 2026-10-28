@@ -1,14 +1,14 @@
 html,
 input,
 button {
-    font-family: "Georgia", "Noto Serif TC Semibold", serif;
+    font-family: "Georgia", "Noto Serif TC", serif;
     font-size: 12pt;
     text-align: center;
 }
 
-h1 {
-    font-family: "Georgia", "Noto Serif TC Black", serif;
-}
+/* h1 {
+    font-family: "Georgia", "Noto Serif TC", serif;
+} */
 
 div {
     margin-bottom: 20px;
