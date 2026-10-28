@@ -48,3 +48,43 @@ button:hover:not(:disabled) {
 img {
     margin: auto;
 }
+
+
+#success-toast,
+#failure-toast {
+    visibility: hidden;
+    width: fit-content;
+    height: 0;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+#success-toast.shown,
+#failure-toast.shown {
+    visibility: visible;
+    height: auto;
+    padding: 5px 10px;
+}
+
+#success-toast {
+    background-color: rgb(219, 255, 214);
+    color: rgb(11, 170, 11);
+}
+
+#success-toast.shown {
+    margin-bottom: 20px;
+    border: 1px solid rgb(11, 170, 11);
+}
+
+#failure-toast {
+    background-color: rgb(255, 214, 214);
+    color: rgb(170, 11, 11);
+}
+
+#failure-toast.shown {
+    margin-bottom: 20px;
+    border: 1px solid rgb(170, 11, 11);
+}

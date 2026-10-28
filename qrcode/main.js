@@ -23,9 +23,9 @@ copy.addEventListener("click", async () => {
 
     try {
         await navigator.clipboard.write([new ClipboardItem({ [blob.type]: blob })]);
-        console.log("Copy successful. QR code copied to clipboard.");
+        notifySuccess();
     } catch (error) {
-        console.log("Copy unsuccessful. " + error);
+        notifyFailure(error);
     }
 });
 
@@ -44,3 +44,19 @@ download.addEventListener("click", async () => {
 
     URL.revokeObjectURL(objectUrl);
 });
+
+
+successToast = document.getElementById("success-toast");
+failToast = document.getElementById("failure-toast");
+
+function notifySuccess() {
+    successToast.className = "shown";
+    setTimeout(function () { successToast.className = ""; }, 1500);
+}
+
+
+function notifyFailure(error) {
+    console.error("Copy unsuccessful.\n\n[DETAILS]\n" + error);
+    failToast.className = "shown";
+    setTimeout(function () { failToast.className = ""; }, 1500);
+}
