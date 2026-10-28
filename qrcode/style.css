@@ -37,8 +37,14 @@ button {
     padding: 6px 10px;
     border-radius: 5px;
 
-    background-color: #EEEEEEEE;
+    background-color: #EEEEEE;
+    color: #000000;
+    opacity: 0.5;
     border: 1px solid lightgray;
+}
+
+button:not(:disabled) {
+    opacity: 1;
 }
 
 button:hover:not(:disabled) {
